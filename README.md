@@ -10,6 +10,10 @@
 ### [JJ4Unity](https://github.com/onsemy/JJ4Unity), [JJ4UnityVSC](https://github.com/onsemy/JJ4UnityVSC)
 
 - Unity 개발에 도움이 되는 코드 모음
+  - `Addressables` 암/복호화 기능
+  - `[SerializeField]` 또는 `public` 변수 자동 할당(AssignPath) 및 읽기 전용(ReadOnly) 기능
+  - `UnityEngine.Debug` 관리 기능
+  - *Visual Studio Code* 연동 기능
 - 사용 기술: Unity, C#, Addressables, Typescript
 
 ### [PyExcelToMustache](https://github.com/onsemy/PyExcelToMustache), [PyExcelToBson](https://github.com/onsemy/PyExcelToBson)
